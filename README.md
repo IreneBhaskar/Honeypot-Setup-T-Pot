@@ -8,15 +8,13 @@
 - [Conclusion](#conclusion)
 
 ## Purpose
-XXX
+Build a T-Pot honeypot to act as a decoy that attracts and collects attackers' data.
 
 ## Utilities Used
    
-**Tool** - description
-- bullet point
-   
-**Tool** - description
-- bullet point
+**T-Pot** - Used as the honeypot platform to expose a fake web server which would attract attackers
+
+**VULTR** - Used to provide a cloud server where the honeypot can run
 
 ## Project Walkthrough
 
