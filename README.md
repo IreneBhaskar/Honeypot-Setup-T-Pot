@@ -91,4 +91,4 @@ Build a T-Pot honeypot to act as a decoy that attracts and collects attackers' d
 XXX
 
 ## Conclusion
-XXX
+Honeypots are useful when wanting to study malicious activity since it allows analysts to understand the attack patterns of attackers (method of access, common activity, etc...). By using the security events recorded by the honeypot, analysts can improve the defenses and countermeasures of security systems.
