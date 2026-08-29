@@ -1,4 +1,4 @@
-# Honeypot-Setup-T-Pot
+# Honeypot Setup: T-Pot
 
 ## Table of Contents
 - [Purpose](#purpose)
