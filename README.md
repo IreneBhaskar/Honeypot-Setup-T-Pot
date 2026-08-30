@@ -88,7 +88,9 @@ Build a T-Pot honeypot to act as a decoy that attracts and collects attackers' d
 <p align="center"> <img src="images/imagestep23.png" height="80%" width="80%"/> </p>
 
 ## Findings
-XXX
+- VULTR: Using servers in the cloud is helpful for a honeypot since it gives the honeypot a separate public IP, making it easier to expose t-pot without exposing the host computer
+   - Cloud servers also allow the honeypot to run all around the clock, meaning that it can collect useful attacker data even when a SOC analyst isn't present. Additionally, the SOC analyst can also access the honeypot remotely.
+- T-Pot: Using t-pot honeypot is incredibly useful when studying attack patterns as it collects information such as attacker IP addresses, techniques, password and username attempts, etc... Additionally, t-pot provides dashboards to view the statistics of this information more efficiently and effectively. All this information assists threat analysis since understanding attacker behavior ultimately improves security practices and countermeasures.
 
 ## Conclusion
 Honeypots are useful when wanting to study malicious activity since it allows analysts to understand the attack patterns of attackers (method of access, common activity, etc...). By using the security events recorded by the honeypot, analysts can improve the defenses and countermeasures of security systems.
